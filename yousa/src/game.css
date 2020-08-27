@@ -1,0 +1,40 @@
+.projectile {
+    position: absolute;
+    top: -48px;
+    left: -48px;
+    z-index: 200;
+}
+.jet-debris {
+    position: absolute;
+    top: -16px;
+    left: -16px;
+    z-index: 199;
+}
+.barrier-debris {
+    position: absolute;
+    top: -64px;
+    left: -64px;
+    z-index: 199;
+}
+#cataplutImg {
+    position: absolute;
+    left: 0px;
+    bottom: 18px;
+}
+#launchArea {
+    margin: 0px;
+    padding: 0px;
+    width: 280px;
+    height: 360px;
+    position: fixed;
+    right: 4px;
+    bottom: 4px;
+}
+#scorePlate {
+    margin: 0px;
+    padding: 0px;
+    position: fixed;
+    right: 20px;
+    top: 80px;
+    font-size: 40px;
+}
